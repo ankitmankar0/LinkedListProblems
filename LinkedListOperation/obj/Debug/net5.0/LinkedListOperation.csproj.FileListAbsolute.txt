@@ -1,0 +1,16 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\bin\Debug\net5.0\LinkedListOperation.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\refint\LinkedListOperation.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\LinkedListOperation.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Day 14\LinkedListOperation\LinkedListOperation\obj\Debug\net5.0\ref\LinkedListOperation.dll
